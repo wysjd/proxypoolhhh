@@ -523,10 +523,34 @@
     url: https://fanqiangdang.com/forum.php?mod=rss&fid=36&auth=0
     num: 300
 
-# 某个网站抓取
-- type: web-freessrxyz
+# clash格式订阅链接
+- type: clash
   options:
-
+    url: https://hk.xhrzg2017.xyz/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool.remon602.ga/clash/proxies
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/proxies
+- type: clash
+  options:
+    url: https://hm2019721.ml/clash/proxies
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies
+- type: clash
+  options:
+    url: https://proxypool.remon602.ga/clash/proxies
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/clash/proxies
 
 
 
